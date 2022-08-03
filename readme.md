@@ -1,5 +1,5 @@
 # soultokens
-**soultokens** is a blockchain built using Cosmos SDK and Tendermint and created with [Ignite CLI](https://ignite.com/cli).
+Demo repo for testing out possible Soul token usecases using Cosmos SDK.
 
 ## Get started
 
